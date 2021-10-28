@@ -1,8 +1,8 @@
-#include <stdio.h>
-#include "Fahrenheit-celsius.c"
+#include "function.c"
+
 
 int main() {
-    fahrenheitcelsius();
+    functiontest();
     return 0;
 }
 

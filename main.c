@@ -1,10 +1,9 @@
 
 #include <stdio.h>
-#include "allocation.c"
-#include "structures.c"
+#include "InOut.c"
 
 int main() {
-    doit3();
+    doit();
     return 0;
 }
 

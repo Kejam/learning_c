@@ -1,9 +1,9 @@
 
 #include <stdio.h>
-#include "InOut.c"
+#include "network_learn/ip_lists.c";
 
 int main() {
-    doit();
+    printAdapters();
     return 0;
 }
 
